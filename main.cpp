@@ -8,7 +8,6 @@
 using namespace cv;
 using namespace std;
 
-
 void cargarCamaras()
 {
     QList<QByteArray> lista;
