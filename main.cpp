@@ -19,7 +19,7 @@ void cargarCamaras()
     for (int i=0; i<camDisp; i++)
     {
         cout << i ;//<< ", " << lista[i] << endl;
-    }
+    } //Comentario
 }
 /*
 void SimpleEnumerateDirectShowCameras()
